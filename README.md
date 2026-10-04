@@ -96,12 +96,12 @@ Tiny 2D renderer
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USER&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USER&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=110-ali-110&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=110-ali-110&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USER&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=110-ali-110&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USER&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=110-ali-110&theme=tokyo-night&hide_border=true" />
 
 </div>
 
@@ -110,7 +110,7 @@ Tiny 2D renderer
 ## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USER/YOUR_USER/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/110-ali-110/110-ali-110/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 ---
@@ -119,6 +119,6 @@ Tiny 2D renderer
 
 ### 💡 "Code is poetry written in logic."
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USER&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=110-ali-110&color=blueviolet&style=for-the-badge)
 
 </div>
