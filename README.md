@@ -57,7 +57,7 @@
 <tr>
 <td width="50%">
 
-### 🧩 [project-name](https://github.com/you/project)
+### 🧩 [project-name](https://github.com/110-ali-110/project)
 توضیح یک‌خطی + impact
 `Vue` `TypeScript` `FastAPI`
 ⭐ 120 · 🍴 15
@@ -65,7 +65,7 @@
 </td>
 <td width="50%">
 
-### 🤖 [ai-project](https://github.com/you/ai-project)
+### 🤖 [ai-project](https://github.com/110-ali-110/ai-project)
 RAG chatbot with streaming
 `Python` `LangChain` `React`
 ⭐ 340 · 🍴 42
@@ -75,14 +75,14 @@ RAG chatbot with streaming
 <tr>
 <td width="50%">
 
-### ⚡ [elixir-realtime](https://github.com/you/realtime)
+### ⚡ [elixir-realtime](https://github.com/110-ali-110/realtime)
 Real-time collab engine
 `Elixir` `Phoenix` `LiveView`
 
 </td>
 <td width="50%">
 
-### 🎮 [cpp-engine](https://github.com/you/engine)
+### 🎮 [cpp-engine](https://github.com/110-ali-110/engine)
 Tiny 2D renderer
 `C++` `CMake` `SDL2`
 
