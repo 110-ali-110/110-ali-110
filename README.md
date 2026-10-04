@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="banner" width="100%" />
+<img src="./assets/banner.png" alt="banner" width="100%" />
 
 # Hi, I'm Ali 👋
 
