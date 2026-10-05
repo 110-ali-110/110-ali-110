@@ -110,7 +110,7 @@ Tiny 2D renderer
 ## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/110-ali-110/110-ali-110/output/github-contribution-grid-snake-dark.svg" />
+<img src="./assets/banner1.png" />
 </div>
 
 ---
